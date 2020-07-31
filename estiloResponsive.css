@@ -1,0 +1,329 @@
+@media (max-width:320px)
+{
+    .inicio{
+        position: fixed;
+        bottom: 20px;
+        right: 15px;
+        z-index:100;
+    
+    }
+    .inicio a i{
+        color:#000;
+        font-size: 30px;
+    }
+    header{
+        height: 100%;   
+    }
+    header .capa{
+        height: 100%;
+        padding: 50px 0;
+    }
+    header h1{
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        font-size: 3rem !important;
+    }
+    header p{
+        font-size: 1rem!important;
+    }
+    .caja-servicios .detalles-servicio {
+        position: absolute;
+        top: 15px;
+        z-index: 2;
+    }
+    .detalles-servicio h3{
+        font-size: 1.2rem;
+    }
+    h2{
+        padding: 0 20px;
+    }
+    .pricings .contenido-caja-precios{
+        padding:1rem !important;
+    }
+    .testimonials p{
+        font-size: 11px;
+    }
+    .testimonio-persona row{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+  
+    .carousel-item .testimonio-persona .testimonio-imagen{
+        width:35%;
+        padding:0px;
+    }
+    .carousel-item .testimonio-persona .testimonio-info{
+        width:35%;
+        padding:0px;
+    }
+    .redes li{
+        margin-left: 0.5rem!important;
+        margin-right: 0.5rem!important;
+    }
+    
+}
+
+@media (min-width:320px) and (max-width:480px)
+{
+    .inicio{
+        position: fixed;
+        bottom: 20px;
+        right: 15px;
+        z-index:100;
+    
+    }
+    .inicio a i{
+        color:#000;
+        font-size: 30px;
+    }
+    header{
+        height: 100%;   
+    }
+    header .capa{
+        height: 100%;
+        padding: 50px 0;
+    }
+    header h1{
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        font-size: 3rem !important;
+    }
+    header p{
+        font-size: 1rem!important;
+    }
+    .caja-servicios .detalles-servicio {
+        position: absolute;
+        top: 15px;
+        z-index: 2;
+    }
+    .detalles-servicio h3{
+        font-size: 1.2rem;
+    }
+    h2{
+        padding: 0 20px;
+    }
+    .pricings .contenido-caja-precios{
+        padding:1rem !important;
+    }
+    .testimonials p{
+        font-size: 12px;
+    }
+    .testimonio-persona row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+   
+    .carousel-item .testimonio-persona .testimonio-imagen{
+        width:35%;
+        padding:0px;
+    }
+    .carousel-item .testimonio-persona .testimonio-info{
+        width:35%;
+        padding:0px;
+    }
+    .redes li{
+        margin-left: 0.5rem!important;
+        margin-right: 0.5rem!important;
+    }
+    
+}
+
+@media (max-width:768px)
+{
+    .inicio{
+        position: fixed;
+        bottom: 20px;
+        right: 15px;
+        z-index:100;
+    
+    }
+    .inicio a i{
+        color:#000;
+        font-size: 30px;
+    }
+    header{
+        height: 100%;   
+    }
+    header .capa{
+        height: 100%;
+        padding: 50px 0;
+    }
+    header h1{
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        font-size: 3.5rem !important;
+    }
+    header p{
+        font-size: 1rem!important;
+    }
+    .caja-servicios .detalles-servicio {
+        position: absolute;
+        top: 15px;
+        z-index: 2;
+    }
+    .detalles-servicio h3{
+        font-size: 1.2rem;
+    }
+    h2{
+        padding: 0 20px;
+    }
+    .pricings .contenido-caja-precios{
+        padding:1rem !important;
+    }
+    .testimonials p{
+        font-size: 12px;
+    }
+    .testimonio-persona .row{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .carousel-item .testimonio-persona .testimonio-imagen{
+        width:35%;
+        padding:0px;
+    }
+    .carousel-item .testimonio-persona .testimonio-info{
+        width:35%;
+        padding:0px;
+    }
+    .redes li{
+        margin-left: 0.5rem!important;
+        margin-right: 0.5rem!important;
+    }
+    
+}
+
+@media (min-width:769px) and  (max-width:991px)
+{
+    .inicio{
+        position: fixed;
+        bottom: 20px;
+        right: 15px;
+        z-index:100;
+    
+    }
+    .inicio a i{
+        color:#000;
+        font-size: 30px;
+    }
+    header{
+        height: 100%;   
+    }
+    header .capa{
+        height: 100%;
+        padding: 50px 0;
+    }
+    header h1{
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        font-size: 3.5rem !important;
+    }
+    header p{
+        font-size: 1rem!important;
+    }
+    .caja-servicios .detalles-servicio {
+        position: absolute;
+        top: 15px;
+        z-index: 2;
+    }
+    .detalles-servicio h3{
+        font-size: 1.2rem;
+    }
+    h2{
+        padding: 0 20px;
+    }
+    .pricings .contenido-caja-precios{
+        padding:1rem !important;
+    }
+    .testimonials p{
+        font-size: 12px;
+    }
+    .testimonio-persona .row{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .carousel-item .testimonio-persona .testimonio-imagen{
+        width:35%;
+        padding:0px;
+    }
+    .carousel-item .testimonio-persona .testimonio-info{
+        width:35%;
+        padding:0px;
+    }
+    .redes li{
+        margin-left: 0.5rem!important;
+        margin-right: 0.5rem!important;
+    }
+    .about .caja-persona .detalles-persona{
+        bottom:100px;
+    }
+    
+}
+@media (min-width:991px) and  (max-width:1024px)
+{
+    .inicio{
+        position: fixed;
+        bottom: 20px;
+        right: 15px;
+        z-index:100;
+    
+    }
+    .inicio a i{
+        color:#000;
+        font-size: 30px;
+    }
+    header{
+        height: 100%;   
+    }
+    header .capa{
+        height: 100%;
+        padding: 50px 0;
+    }
+    header h1{
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        font-size: 3.5rem !important;
+    }
+    header p{
+        font-size: 1rem!important;
+    }
+    .caja-servicios .detalles-servicio {
+        position: absolute;
+        top: 15px;
+        z-index: 2;
+    }
+    .detalles-servicio h3{
+        font-size: 1.2rem;
+    }
+    h2{
+        padding: 0 20px;
+    }
+    .pricings .contenido-caja-precios{
+        padding:1rem !important;
+    }
+    .testimonials p{
+        font-size: 15px;
+    }
+    .testimonio-persona .row{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .carousel-item .testimonio-persona .testimonio-imagen{
+        width:35%;
+        padding:0px;
+    }
+    .carousel-item .testimonio-persona .testimonio-info{
+        width:35%;
+        padding:0px;
+    }
+    .redes li{
+        margin-left: 0.5rem!important;
+        margin-right: 0.5rem!important;
+    }
+    
+    
+}
